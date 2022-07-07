@@ -1,12 +1,12 @@
 module.exports = {    
-    name : 'MyESP32v4WD',
+    name : 'MyESP324WD',
     platform : 'arduino-esp32',
-    title : 'MyESP32-4WD',
-    description : 'MyESP32-4WD Robotics บอร์ดเพื่อการเรียนรู้ด้าน coding โดยใช้หุ่นยนต์เป็นสื่อกลางในการเรียนรู้\n',
+    title : 'MyESP324WD',
+    description : 'MyESP324WDบอร์ดเพื่อการเรียนรู้ด้านหุ่นยนต์ เป็นสื่อกลางในการเรียนรู้การเขียนโปรแกรมควบคุมหุ่นยนต์พื้นฐานจนกระทั่งขั้นสูง บอร์ดนี้ออกแบบมาให้ขับเคลื่อน 4ล้อ.\n',
     author : 'kruthong',
     website : 'http://www.myrobotstem.com/',
-    email : 'myrobotstem@gmail.com',
-    git : ' ',
+    email : 'kruthong@gmail.com',
+    git : 'https://github.com/myrobotstemiot/MyESP32v4WD/',
     image : '/static/display.jpg',
-    version : '0.4.0',
+    version : '0.2.0'
 };
